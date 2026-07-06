@@ -79,17 +79,7 @@ for v1 scoping.
 
 ---
 
-## 4. User Stories (v1)
-
-Write in the form: _As a **[persona]**, I want **[action]** so that **[benefit]**._
-
-- _(fill in)_
-- _(fill in)_
-- _(fill in)_
-
----
-
-## 5. Scope: MVP vs. Later
+## 4. Scope: MVP vs. Later
 
 **MVP (v1) — the smallest thing that's genuinely useful:**
 - _(fill in)_
@@ -102,7 +92,7 @@ Write in the form: _As a **[persona]**, I want **[action]** so that **[benefit]*
 
 ---
 
-## 6. Data Model (draft)
+## 5. Data Model (draft)
 
 List the main entities and their key fields/relationships. Refine into a real
 schema later.
@@ -122,7 +112,7 @@ roles per team vs. global?)_
 
 ---
 
-## 7. Technical Approach
+## 6. Technical Approach
 
 Decide and record. (Ask for a recommendation if unsure.)
 
@@ -141,7 +131,7 @@ Decide and record. (Ask for a recommendation if unsure.)
 
 ---
 
-## 8. UX & Design Notes
+## 7. UX & Design Notes
 
 - **Key screens:** _(fill in — dashboard, team page, schedule/calendar, event
   detail, roster, messages, settings)_
@@ -152,7 +142,7 @@ Decide and record. (Ask for a recommendation if unsure.)
 
 ---
 
-## 9. Milestones & Rough Timeline
+## 8. Milestones & Rough Timeline
 
 | Milestone | Deliverable | Target |
 | --------- | ----------- | ------ |
@@ -164,7 +154,7 @@ Decide and record. (Ask for a recommendation if unsure.)
 
 ---
 
-## 10. Risks & Open Questions
+## 9. Risks & Open Questions
 
 - _(fill in — handling data for minors/COPYPPA-style privacy concerns?)_
 - _(fill in — do players/parents need accounts, or coach-only for v1?)_
@@ -173,7 +163,7 @@ Decide and record. (Ask for a recommendation if unsure.)
 
 ---
 
-## 11. Decisions Log
+## 10. Decisions Log
 
 Record notable decisions as you go so future-you knows the "why".
 
@@ -183,9 +173,9 @@ Record notable decisions as you go so future-you knows the "why".
 
 ---
 
-## 12. Next Actions
+## 11. Next Actions
 
 - [ ] Fill in Vision & primary persona (Sections 1–2)
-- [ ] Lock MVP feature list (Sections 3 & 5)
-- [ ] Pick the tech stack (Section 7)
+- [ ] Lock MVP feature list (Sections 3 & 4)
+- [ ] Pick the tech stack (Section 6)
 - [ ] _(fill in)_
